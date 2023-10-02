@@ -23,4 +23,4 @@ iii. Wrote content wherever lorem was given i.e ongoing exhibitons, learn about 
 iv.  Correct the subscribe button and enter e-mail address column.
 v. Enhance the CSS of subscribe button.
 vi. Enhance the css of footer section.
-
+vii. Link ongoing exhibitions and upcoming exhibition sections to exhibition site.
