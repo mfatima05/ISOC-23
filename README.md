@@ -1,5 +1,10 @@
 # ISOC-23
-The contributions in ISOC is  my first open source contributiion which are mentioned below:
+The project I chose for the ISOC-23 is Web Development E-Museum (HTML,CSS,JS) which will help people to book the tickets for the ongoing or upcoming exhibitions in Delhi including NCR region.
+It will also provide a platform to the local artisans and allows user to see a painting in 3D.
+
+We can run this project on vs code or any other code editor by downloading all the attached files and put them in a single folder only and then can run either isoc.html or page.html.
+
+The contributions in ISOC is  my first open source contribution which I have mentioned below:
 
 The contributions I did in page.html i.e the handicrafts exhibition website are:
 i.	Wrote content under handicrafts exhibition heading.
