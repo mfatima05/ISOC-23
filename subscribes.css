@@ -1,0 +1,22 @@
+*{
+    background-color: #A8DADC;
+}
+.home .hero h3{
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: var(--black);
+    text-align: center;
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home .hero p{
+    font-size: 2rem;
+    font-weight: lighter;
+    padding: 0;
+    color:aliceblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color:purple;
+}
